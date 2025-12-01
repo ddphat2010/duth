@@ -68,12 +68,12 @@
 }
 
 .card-title {
-    color: #333;
+    color: #000000;
     border-bottom: 2px solid red;
     padding-bottom: 5px;
     margin-bottom: 10px;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 
@@ -85,6 +85,11 @@
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
     text-align: center;
+}
+.huongdan
+{
+    font-size: 20px;
+    color: rgb(141, 43, 43);
 }
 
 .leader-item:last-child {
